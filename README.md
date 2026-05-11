@@ -25,14 +25,14 @@
 ## 🧠 About Me
 
 <p align="center">
-🎓 Software Engineering Student @ Debre Berhan University  
-📧 Email: kuralemma49@gmail.com  
-🧑 Pronouns: he/him  
-💻 Passionate about Web Development & Backend Systems  
-🐍 Python | ☕ Java | 🌐 JavaScript  
+🎓 Software Engineering Student @ Debre Berhan University <br> 
+📧 Email: kuralemma49@gmail.com <br>  
+🧑 Pronouns: he/him  <br> 
+💻 Passionate about Web Development & Backend Systems <br>  
+🐍 Python | ☕ Java | 🌐 JavaScript<br>   
 🚀 I love building real-world projects  
-🇪🇹 Based in Ethiopia  
-📌 Always learning new technologies  
+🇪🇹 Based in Ethiopia  <br> 
+📌 Always learning new technologies <br>  
 ⚡ Fun Fact: I once debugged for 6 hours only to find a missing semicolon 😅  
 </p>
 
