@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kura Lemma</h1>
 
 <p align="center">
-🚀 Software Engineering Student @ DBU | Web Developer | Problem Solver  
+💡 Full-Stack Developer in Progress | Software Engineering Student @ DBU | Problem Solver  
 </p>
 
 <p align="center">
@@ -14,27 +14,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-</p>
-
----
-
 ## 🧠 About Me
 
-<p align="center">
-🎓 Software Engineering Student @ Debre Berhan University <br> 
-📧 Email: kuralemma49@gmail.com <br>  
-🧑 Pronouns: he/him  <br> 
-💻 Passionate about Web Development & Backend Systems <br>  
-🐍 Python | ☕ Java | 🌐 JavaScript<br>   
-🚀 I love building real-world projects  
-🇪🇹 Based in Ethiopia  <br> 
-📌 Always learning new technologies <br>  
-⚡ Fun Fact: I once debugged for 6 hours only to find a missing semicolon 😅  
-</p>
+- 🎓 Software Engineering Student @ Debre Berhan University  
+- 📧 Email: [kuralemma49@gmail.com](mailto:kuralemma49@gmail.com)  
+- 🧑 Pronouns: he/him  
+- 💻 Passionate about Web Development & Backend Systems  
+- 🐍 Python | ☕ Java | 🌐 JavaScript  
+- 🚀 I love building real-world projects  
+- 🇪🇹 Based in Ethiopia  
+- 📌 Always learning new technologies  
+- ⚡ Fun Fact: I once debugged for 6 hours only to find a missing semicolon 😅  
 
 ---
 
@@ -45,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 </p>
 
 ---
@@ -78,28 +69,35 @@
 
 ## 🚀 Featured Projects
 
-- 💡 **Smartwatch Simulation System**  
-  👉 https://github.com/kura458/smartwatch_simulation  
-  - Real-time step counter simulation  
-  - Sensor-based activity tracking logic  
-  - Python-based backend processing  
+### 💡 Smartwatch Simulation System
+- 🔗 Repo: https://github.com/kura458/smartwatch_simulation  
+- 🧠 Step counter simulation using sensor logic  
+- ⚙️ Python-based backend processing  
+- 📊 Real-time activity tracking concept  
 
-- 🌐 **Etworks Full Stack System (Frontend)**  
-  👉 https://github.com/kura458/Etworks  
-  - Responsive web interface  
-  - User authentication UI  
-  - API integration ready frontend  
+---
 
-- ⚙️ **Etworks Backend API**  
-  👉 https://github.com/kura458/EtworksBackend  
-  - REST API development  
-  - Database integration  
-  - Authentication & routing system  
+### 🌐 Etworks Frontend System
+- 🔗 Repo: https://github.com/kura458/Etworks  
+- 🎨 Responsive UI design  
+- 🔐 Authentication interface  
+- 🌍 API-ready frontend structure  
 
-- 🧠 **Python & Java Practice Projects**  
-  👉 https://github.com/kura458  
-  - Algorithms & problem-solving tasks  
-  - DSA practice implementations  
+---
+
+### ⚙️ Etworks Backend API
+- 🔗 Repo: https://github.com/kura458/EtworksBackend  
+- 🔐 REST API development  
+- 🗄️ Database integration  
+- ⚡ Authentication & routing system  
+
+---
+
+### 🧠 Programming Practice Projects
+- 🔗 GitHub: https://github.com/kura458  
+- 📌 DSA practice (Java & Python)  
+- 🧮 Algorithm problem solving  
+- 🧠 Logic building exercises  
 
 ---
 
