@@ -24,6 +24,31 @@
 - 📌 Currently learning advanced software engineering concepts  
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  
+<a href="https://www.instagram.com/kuralemma/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kura-lemma/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+</a>
+
+<a href="https://x.com/KuraLemma39751" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45"/>
+</a>
+
+<a href="https://t.me/Libelayskal" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="45"/>
+</a>
+
+<a href="https://github.com/kura458" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</a>
+
+</p>
 
 ## ⚙️ Tech Stack
 
