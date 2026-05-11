@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=900&lines=Building+real-world+software+solutions;Python+%7C+Java+%7C+Web+Development;Always+learning+and+improving+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=900&lines=Building+real-world+software+solutions;Python+%7C+Java+%7C+TypeScript+%7C+React;Always+learning+and+improving+🚀" />
 </p>
 
 <p align="center">
@@ -16,26 +16,30 @@
 
 ## 🧠 About Me
 
-- 🎓 Software Engineering Student @ Debre Berhan University  
-- 📧 Email: [kuralemma49@gmail.com](mailto:kuralemma49@gmail.com)  
-- 🧑 Pronouns: he/him  
-- 💻 Passionate about Web Development & Backend Systems  
-- 🐍 Python | ☕ Java | 🌐 JavaScript  
-- 🚀 I love building real-world projects  
-- 🇪🇹 Based in Ethiopia  
-- 📌 Always learning new technologies  
-- ⚡ Fun Fact: I once debugged for 6 hours only to find a missing semicolon 😅  
+<p align="center">
+🎓 Software Engineering Student @ Debre Berhan University <br> 
+📧 Email: kuralemma49@gmail.com <br>  
+🧑 Pronouns: he/him <br> 
+💻 Passionate about Web Development, Backend Systems & DevOps <br>  
+🌐 Portfolio: https://kura458.github.io <br>
+🚀 I love building real-world projects in Ethiopia <br> 
+🇪🇹 Based in Ethiopia <br> 
+📌 Always learning new technologies <br>  
+⚡ Fun Fact: I once debugged for 6 hours only to find a missing semicolon 😅  
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
 </p>
 
 ---
@@ -45,7 +49,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50"/>
 </p>
 
 ---
@@ -54,15 +62,36 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50"/>
+</p>
+
+---
+
+### 🐳 DevOps & Deployment
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+</p>
+
+---
+
+### 📊 Data & Libraries
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
 </p>
 
 ---
 
 ### 🛠 Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
 </p>
 
 ---
@@ -77,19 +106,13 @@
 
 ---
 
-### 🌐 Etworks Frontend System
-- 🔗 Repo: https://github.com/kura458/Etworks  
-- 🎨 Responsive UI design  
-- 🔐 Authentication interface  
-- 🌍 API-ready frontend structure  
-
----
-
-### ⚙️ Etworks Backend API
-- 🔗 Repo: https://github.com/kura458/EtworksBackend  
-- 🔐 REST API development  
-- 🗄️ Database integration  
-- ⚡ Authentication & routing system  
+### 🌐 Etworks Full Stack System
+- 🔗 Frontend: https://github.com/kura458/Etworks  
+- 🔗 Backend API: https://github.com/kura458/EtworksBackend  
+- 🎨 Responsive UI with React  
+- 🔐 JWT Authentication & Authorization  
+- 🗄️ PostgreSQL database integration  
+- 🌍 RESTful API architecture  
 
 ---
 
@@ -98,6 +121,24 @@
 - 📌 DSA practice (Java & Python)  
 - 🧮 Algorithm problem solving  
 - 🧠 Logic building exercises  
+
+---
+
+## 💻 Coding Activity & Profiles
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=kura458&theme=react-dark&show_icons=true" height="180"/>
+</p>
+
+<p align="center">
+  
+| Platform | Username | Problems Solved | Rating |
+|----------|----------|-----------------|--------|
+| **LeetCode** | kura458 | 104+ | 🔥 1,200+ |
+| **Codeforces** | kura458 | 50+ | Pupil (1200) |
+| **GitHub** | kura458 | Active daily | - |
+
+</p>
 
 ---
 
@@ -121,6 +162,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kura458&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kura458&theme=tokyonight&no-frame=true&row=1&column=4"/>
 </p>
 
 ---
@@ -153,10 +202,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://kura458.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-🚀 Thanks for visiting my profile! Let’s build something amazing together  
-</p>
+## 📊 Weekly Development Breakdown
+
+```text
+TypeScript   8 hrs  ████████████░░░░░░░░   45%
+Python       5 hrs  ████████░░░░░░░░░░░░   28%
+Java         3 hrs  ████░░░░░░░░░░░░░░░░   17%
+React        2 hrs  ███░░░░░░░░░░░░░░░░░   10%
