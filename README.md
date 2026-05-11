@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kura Lemma</h1>
 
 <p align="center">
-  Software Engineering Student @ DBU | Web Developer | Problem Solver  
+🚀 Software Engineering Student @ DBU | Web Developer | Problem Solver  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=900&lines=Building+real-world+software+solutions;Python+%7C+Java+%7C+Web+Development;Always+learning+new+technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=900&lines=Building+real-world+software+solutions;Python+%7C+Java+%7C+Web+Development;Always+learning+and+improving+🚀" />
 </p>
 
 <p align="center">
@@ -13,40 +13,28 @@
 </p>
 
 ---
-## 🌐 Connect With Me
 
 <p align="center">
-  
-<a href="https://www.instagram.com/kuralemma/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kura-lemma/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-</a>
-
-<a href="https://x.com/KuraLemma39751" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45"/>
-</a>
-
-<a href="https://t.me/Libelayskal" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="45"/>
-</a>
-
-<a href="https://github.com/kura458" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</a>
-
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
+
+---
 
 ## 🧠 About Me
 
-- 🎓 Software Engineering Student @ Debre Berhan University  
-- 💻 Passionate about Web Development & Backend Systems  
-- 🐍 Skilled in Python, Java, JavaScript  
-- 🚀 I love building real-world projects  
-- 🇪🇹 Based in Ethiopia  
-- 📌 Currently learning advanced software engineering concepts  
+<p align="center">
+🎓 Software Engineering Student @ Debre Berhan University  
+📧 Email: kuralemma49@gmail.com  
+🧑 Pronouns: he/him  
+💻 Passionate about Web Development & Backend Systems  
+🐍 Python | ☕ Java | 🌐 JavaScript  
+🚀 I love building real-world projects  
+🇪🇹 Based in Ethiopia  
+📌 Always learning new technologies  
+⚡ Fun Fact: I once debugged for 6 hours only to find a missing semicolon 😅  
+</p>
 
 ---
 
@@ -90,17 +78,35 @@
 
 ## 🚀 Featured Projects
 
-- 💡 Smartwatch Simulation System  
-- 🌐 Web Development Projects (HTML/CSS/JS)  
-- 🧠 Python & Java Practice Projects  
-- ⚙️ Backend API experiments  
+- 💡 **Smartwatch Simulation System**  
+  👉 https://github.com/kura458/smartwatch_simulation  
+  - Real-time step counter simulation  
+  - Sensor-based activity tracking logic  
+  - Python-based backend processing  
+
+- 🌐 **Etworks Full Stack System (Frontend)**  
+  👉 https://github.com/kura458/Etworks  
+  - Responsive web interface  
+  - User authentication UI  
+  - API integration ready frontend  
+
+- ⚙️ **Etworks Backend API**  
+  👉 https://github.com/kura458/EtworksBackend  
+  - REST API development  
+  - Database integration  
+  - Authentication & routing system  
+
+- 🧠 **Python & Java Practice Projects**  
+  👉 https://github.com/kura458  
+  - Algorithms & problem-solving tasks  
+  - DSA practice implementations  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kura458&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kura458&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 <p align="center">
@@ -124,25 +130,29 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+💬 Open to internships, collaborations, and tech opportunities 🚀  
+</p>
 
-<a href="https://www.instagram.com/kuralemma/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
+<p align="center">
+
+<a href="https://www.instagram.com/kuralemma/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kura-lemma/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+<a href="https://www.linkedin.com/in/kura-lemma/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/KuraLemma39751">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45"/>
+<a href="https://x.com/KuraLemma39751" target="_blank">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://t.me/Libelayskal">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="45"/>
+<a href="https://t.me/Libelayskal" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/kura458">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<a href="https://github.com/kura458" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -150,5 +160,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together+🚀" />
+🚀 Thanks for visiting my profile! Let’s build something amazing together  
 </p>
