@@ -24,7 +24,7 @@
 - 🚀 I love building real-world projects  
 - 🇪🇹 Based in Ethiopia  
 - 📌 Always learning new technologies  
-- ⚡ Fun Fact: I once debugged for 6 hours only to find a missing semicolon 😅  
+    
 
 ---
 
