@@ -99,14 +99,6 @@
 
 ## 🚀 Featured Projects
 
-### 💡 Smartwatch Simulation System
-- 🔗 Repo: https://github.com/kura458/smartwatch_simulation  
-- 🧠 Step counter simulation using sensor logic  
-- ⚙️ Python-based backend processing  
-- 📊 Real-time activity tracking concept  
-
----
-
 ### 🌐 Etworks Frontend System
 - 🔗 Repo: https://github.com/kura458/Etworks  
 - 🎨 Responsive UI design  
@@ -120,14 +112,6 @@
 - 🔐 REST API development  
 - 🗄️ Database integration  
 - ⚡ Authentication & routing system  
-
----
-
-### 🧠 Programming Practice Projects
-- 🔗 GitHub: https://github.com/kura458  
-- 📌 DSA practice (Java & Python)  
-- 🧮 Algorithm problem solving  
-- 🧠 Logic building exercises  
 
 ---
 
