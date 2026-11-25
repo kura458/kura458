@@ -76,55 +76,55 @@ I enjoy exploring how technology solves real-world problems and continuously imp
 
 ## 🚀 Featured Projects
 
-### 🌐 Etworks Frontend System
+These six projects best represent the areas I'm developing: full-stack applications, frontend engineering, Android UI/UX, and Artificial Intelligence.
 
-A frontend development project focused on creating a responsive and user-friendly web interface.
+### 🧭 [HASERI — Local Services Platform](https://github.com/kura458/Real_haseri_pro)
 
-- 🎨 Responsive user interface
-- 🔐 Authentication interface
-- 🌍 API-ready frontend structure
+A team full-stack software engineering project focused on helping people discover local technical services and connect with providers.
 
-**Repository:** [Etworks Frontend](https://github.com/kura458/Etworks)
+- Local service discovery and customer/provider workflows
+- Administrator and platform-management features
+- Full-stack development experience
 
-### ⚙️ Etworks Backend API
+### 💼 [Etworks — Job Portal Frontend](https://github.com/kura458/Etworks)
 
-A backend development project focused on REST API development and server-side functionality.
+The React frontend for a job portal serving job seekers, employers, and administrators.
 
-- 🔐 Authentication and routing
-- 🗄️ Database integration
-- ⚡ Backend API development
+- Role-specific application areas and dashboards
+- Job discovery, profiles, and application workflows
+- React, Vite, and Tailwind CSS
 
-**Repository:** [Etworks Backend](https://github.com/kura458/EtworksBackend)
+### ⚙️ [EtworksBackend — Job Portal API](https://github.com/kura458/EtworksBackend)
 
+The Spring Boot backend supporting the Etworks job portal.
 
+- REST API and authentication workflows
+- Job, application, profile, and administration features
+- Java, Spring Boot, and PostgreSQL
 
-### 🧭 HASERI — Local Technical Finder
+### 🚗 [ZayRide UX Redesign](https://github.com/kura458/ZayRide-UX-Redesign)
 
-A team software engineering project focused on helping users discover local technical services and connect with service providers.
+An academic Android UI/UX redesign exploring a clearer passenger ride-booking experience.
 
-- 📍 Local service discovery
-- 👤 User and administrator workflows
-- 🧩 Full-stack project development
+- Welcome, home, and ride-selection screens
+- Android XML layouts and Java
+- UX critique, proposal, and supporting documentation
 
-**Repository:** [HASERI](https://github.com/kura458/Real_haseri_pro)
+### 🌐 [Kura Lemma — Developer Portfolio](https://github.com/kura458/kura-lemma-portfolio)
 
-### 🚗 ZayRide UX Redesign
+My personal portfolio presenting my background, skills, and selected web-development work.
 
-An academic UX redesign project exploring improvements to a ride-booking experience, including onboarding, booking, and ride tracking screens.
+- Responsive static website
+- Semantic HTML and modern CSS
+- Accessibility and SEO considerations
 
-- 🎨 User interface and experience redesign
-- 📱 Android design implementation
-- 🗺️ Ride-booking and tracking flows
+### 🤖 [Smartwatch Step Counter — Model-Based AI](https://github.com/kura458/Model-based-AI)
 
-**Repository:** [ZayRide UX Redesign](https://github.com/kura458/ZayRide-UX-Redesign)
+A Python simulation demonstrating a model-based AI agent for step counting and distance estimation.
 
-### 💼 Developer Portfolio
-
-My personal portfolio project for presenting my background, skills, and selected development work.
-
-**Repository:** [Kura Lemma Portfolio](https://github.com/kura458/kura-lemma-portfolio)
-
-> More projects and improvements coming soon!
+- Simulated motion sensing and stride-length estimation
+- GPS-inspired calibration
+- Python, NumPy, and Matplotlib
 
 ---
 
