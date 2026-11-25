@@ -69,7 +69,7 @@ A team software engineering project focused on helping customers discover local 
 - Service discovery, reviews, and platform administration
 - Project stack documented in the repository: Next.js, Laravel, and PostgreSQL
 
-**[Source code and project README](https://github.com/kura458/Real_haseri_pro)**
+**[Source code and project README](https://github.com/kura458/Real_haseri_pro) · [Visual assets](https://github.com/kura458/Real_haseri_pro/tree/main/frontend/public/images)**
 
 ### 💼 [Etworks — Job Portal](https://github.com/kura458/Etworks)
 
@@ -79,7 +79,7 @@ A collaborative job-portal project for job seekers, employers, and administrator
 - Backend: Java, Spring Boot, and PostgreSQL
 - Includes job, profile, application, and role-specific workflows
 
-**Repositories:** [Frontend](https://github.com/kura458/Etworks) · [Backend API](https://github.com/kura458/EtworksBackend)
+**Repositories:** [Frontend](https://github.com/kura458/Etworks) · [Backend API](https://github.com/kura458/EtworksBackend) · [Frontend visual assets](https://github.com/kura458/Etworks/tree/main/public)
 
 ### 🚗 [ZayRide Passenger — UI/UX Redesign](https://github.com/kura458/ZayRide-UX-Redesign)
 
@@ -89,7 +89,7 @@ An academic Android UI/UX redesign project for a passenger ride-booking experien
 - Android development with Java and XML layouts
 - Includes a UX critique, proposal, and supporting documentation
 
-**[Source code and project documentation](https://github.com/kura458/ZayRide-UX-Redesign)**
+**[Source code and project documentation](https://github.com/kura458/ZayRide-UX-Redesign) · [Redesigned screen previews](https://github.com/kura458/ZayRide-UX-Redesign/tree/main/screenshots)**
 
 ### 🌐 [Kura Lemma — Developer Portfolio](https://github.com/kura458/kura-lemma-portfolio)
 
@@ -109,7 +109,7 @@ A Python simulation of a model-based agent that estimates steps and walking dist
 - Distance calculation and calibration concepts
 - Python, NumPy, and Matplotlib
 
-**[Source code and project README](https://github.com/kura458/Model-based-AI)**
+**[Source code and project README](https://github.com/kura458/Model-based-AI) · [Agent workflow and simulation charts](https://github.com/kura458/Model-based-AI#agent-workflow)**
 
 ---
 
