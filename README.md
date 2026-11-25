@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Kura Lemma
-
-<h3 align="center">
-  💡 Full-Stack Developer in Progress | Software Engineering Student @ DBU
-</h3>
+# Hi, I'm Kura Lemma 👋
 
 <p align="center">
-  Building practical software solutions, exploring new technologies, and turning ideas into real-world applications.
+  <strong>Software Engineering Student @ Debre Berhan University | Full-Stack Developer in Progress</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=850&lines=Building+Real-World+Software+Solutions;Frontend+%7C+Backend+%7C+Full-Stack;Learning+Today%2C+Building+Tomorrow;Always+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+  I build practical web and software projects, learn by solving real problems, and enjoy working across frontend, backend, and application development.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=760&lines=Building+Practical+Software;Frontend+%7C+Backend+%7C+Full-Stack;Learning+by+Building;Always+Improving+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -18,120 +18,105 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm a Software Engineering student at **Debre Berhan University (DBU)** with a strong interest in building modern, practical, and user-focused software applications.
+I'm a Software Engineering student at **Debre Berhan University (DBU)** in Ethiopia. I enjoy turning ideas into working software and improving my skills through academic, team, and personal projects.
 
-I enjoy exploring how technology solves real-world problems and continuously improving my development skills through hands-on projects.
-
-- 🎓 Software Engineering Student @ Debre Berhan University
-- 💻 Interested in Full-Stack Web Development
+- 🎓 Software Engineering student at DBU
+- 💻 Interested in full-stack and web application development
 - 🌱 Currently strengthening JavaScript and React
-- ⚙️ Exploring Backend Development and REST APIs
-- 🗄️ Interested in Database Design and Management
-- 🚀 Passionate about building real-world software solutions
-- 🤝 Open to internships, collaborations, and learning opportunities
-- 🇪🇹 Based in Ethiopia
+- ⚙️ Exploring REST APIs, backend architecture, and database design
+- 🤝 Open to internships, collaboration, and learning opportunities
 
----
+## Current Focus
 
-## 🎯 Currently Working On
+- Building stronger JavaScript and React fundamentals
+- Practicing frontend and backend integration
+- Improving SQL and relational database skills
+- Writing maintainable code and documenting projects
+- Preparing for software engineering internship opportunities
 
-- 📚 Strengthening JavaScript programming fundamentals
-- ⚛️ Learning React and modern frontend development
-- 🖥️ Exploring backend development and RESTful APIs
-- 🗄️ Improving database design and SQL skills
-- 🔧 Building practical full-stack applications
-- 📈 Improving problem-solving and clean coding practices
+## Technologies I've Worked With
 
----
+These technologies reflect tools used across my projects and current learning.
 
-## ⚙️ Tech Stack & Tools
-
-### 🌐 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend technologies" />
+**Frontend:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="HTML, CSS, JavaScript, React and Next.js" />
 </p>
 
-### ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,php" alt="Backend technologies" />
+**Backend and programming:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,nodejs" alt="Java, Spring, PHP, Laravel, Python and Node.js" />
 </p>
 
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database technologies" />
-</p>
-
-### 🛠️ Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
+**Databases and tools:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,postman,androidstudio" alt="PostgreSQL, MySQL, Git, GitHub, VS Code, Postman and Android Studio" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-These six projects best represent the areas I'm developing: full-stack applications, frontend engineering, Android UI/UX, and Artificial Intelligence.
+I selected these projects to show different areas of my work. Team projects are identified as collaborative projects; the repository links provide the implementation and project context.
 
-### 🧭 [HASERI — Local Services Platform](https://github.com/kura458/Real_haseri_pro)
+### 🧭 [HASERI — Local Services Marketplace](https://github.com/kura458/Real_haseri_pro)
 
-A team full-stack software engineering project focused on helping people discover local technical services and connect with providers.
+A team software engineering project focused on helping customers discover local service providers and connect with them.
 
-- Local service discovery and customer/provider workflows
-- Administrator and platform-management features
-- Full-stack development experience
+- Customer and service-provider workflows
+- Service discovery, reviews, and platform administration
+- Project stack documented in the repository: Next.js, Laravel, and PostgreSQL
 
-### 💼 [Etworks — Job Portal Frontend](https://github.com/kura458/Etworks)
+**[Source code and project README](https://github.com/kura458/Real_haseri_pro)**
 
-The React frontend for a job portal serving job seekers, employers, and administrators.
+### 💼 [Etworks — Job Portal](https://github.com/kura458/Etworks)
 
-- Role-specific application areas and dashboards
-- Job discovery, profiles, and application workflows
-- React, Vite, and Tailwind CSS
+A collaborative job-portal project for job seekers, employers, and administrators, with a React frontend and a separate Spring Boot API.
 
-### ⚙️ [EtworksBackend — Job Portal API](https://github.com/kura458/EtworksBackend)
+- Frontend: React, Vite, Tailwind CSS, React Router, and Zustand
+- Backend: Java, Spring Boot, and PostgreSQL
+- Includes job, profile, application, and role-specific workflows
 
-The Spring Boot backend supporting the Etworks job portal.
+**Repositories:** [Frontend](https://github.com/kura458/Etworks) · [Backend API](https://github.com/kura458/EtworksBackend)
 
-- REST API and authentication workflows
-- Job, application, profile, and administration features
-- Java, Spring Boot, and PostgreSQL
+### 🚗 [ZayRide Passenger — UI/UX Redesign](https://github.com/kura458/ZayRide-UX-Redesign)
 
-### 🚗 [ZayRide UX Redesign](https://github.com/kura458/ZayRide-UX-Redesign)
+An academic Android UI/UX redesign project for a passenger ride-booking experience.
 
-An academic Android UI/UX redesign exploring a clearer passenger ride-booking experience.
+- Welcome, home, and ride-selection prototype screens
+- Android development with Java and XML layouts
+- Includes a UX critique, proposal, and supporting documentation
 
-- Welcome, home, and ride-selection screens
-- Android XML layouts and Java
-- UX critique, proposal, and supporting documentation
+**[Source code and project documentation](https://github.com/kura458/ZayRide-UX-Redesign)**
 
 ### 🌐 [Kura Lemma — Developer Portfolio](https://github.com/kura458/kura-lemma-portfolio)
 
-My personal portfolio presenting my background, skills, and selected web-development work.
+My personal portfolio website, presenting my background, skills, and selected web-development projects.
 
-- Responsive static website
-- Semantic HTML and modern CSS
-- Accessibility and SEO considerations
+- Responsive static website built with HTML and CSS
+- Semantic structure and accessibility-focused details
+- Prepared for static hosting; visit the repository for the current source
+
+**[Portfolio source code](https://github.com/kura458/kura-lemma-portfolio)**
 
 ### 🤖 [Smartwatch Step Counter — Model-Based AI](https://github.com/kura458/Model-based-AI)
 
-A Python simulation demonstrating a model-based AI agent for step counting and distance estimation.
+A Python simulation of a model-based agent that estimates steps and walking distance using simulated motion data and stride-length calibration.
 
-- Simulated motion sensing and stride-length estimation
-- GPS-inspired calibration
+- Simulated sensor readings and step estimation
+- Distance calculation and calibration concepts
 - Python, NumPy, and Matplotlib
+
+**[Source code and project README](https://github.com/kura458/Model-based-AI)**
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kura458&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kura458&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kura458&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
@@ -141,9 +126,9 @@ A Python simulation demonstrating a model-based AI agent for step counting and d
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-I'm open to connecting with developers, collaborating on projects, and exploring internship opportunities.
+I'm happy to connect with developers, collaborate on projects, and hear about internship opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kura-lemma/">
@@ -152,23 +137,17 @@ I'm open to connecting with developers, collaborating on projects, and exploring
   <a href="mailto:kuralemma49@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://t.me/Libelayskal">
+    <img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   <a href="https://www.instagram.com/kuralemma/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/KuraLemma39751">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://t.me/Libelayskal">
-    <img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  💡 <b>Learn. Build. Improve. Repeat.</b>
 </p>
 
 <p align="center">
-  Thanks for visiting my GitHub profile! Let's build something meaningful together. 🚀
+  <strong>Learn. Build. Improve. Repeat. 🚀</strong>
 </p>
