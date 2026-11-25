@@ -16,7 +16,30 @@
   <img src="https://komarev.com/ghpvc/?username=kura458&label=Profile%20Views&color=00F7A5&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/kura458?tab=followers">
+    <img src="https://img.shields.io/github/followers/kura458?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/kura458?tab=repositories">
+    <img src="https://img.shields.io/badge/View-Public%20Repositories-181717?logo=github&logoColor=white" alt="Browse public repositories" />
+  </a>
+  <a href="https://github.com/kura458/kura-lemma-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Source%20Code-0A66C2?logo=github&logoColor=white" alt="Portfolio source code" />
+  </a>
+</p>
+
 ---
+
+## Quick Navigation
+
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#current-focus">Current Focus</a> ·
+  <a href="#technologies-ive-worked-with">Technologies</a> ·
+  <a href="#selected-projects">Projects</a> ·
+  <a href="#github-activity">GitHub Activity</a> ·
+  <a href="#connect-with-me">Contact</a>
+</p>
 
 ## About Me
 
@@ -114,7 +137,7 @@ My personal portfolio website, presenting my background, skills, and selected we
 - Semantic structure and accessibility-focused details
 - Prepared for static hosting; visit the repository for the current source
 
-**[Portfolio source code](https://github.com/kura458/kura-lemma-portfolio)**
+**[Portfolio source code](https://github.com/kura458/kura-lemma-portfolio)** · [Explore all repositories](https://github.com/kura458?tab=repositories)
 
 ### 🤖 [Smartwatch Step Counter — Model-Based AI](https://github.com/kura458/Model-based-AI)
 
