@@ -115,22 +115,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kura458&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kura458&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kura458&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
