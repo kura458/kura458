@@ -113,19 +113,6 @@
 - 🗄️ Database integration  
 - ⚡ Authentication & routing system  
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kura458&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-
----
-
 <p align="center">
 🚀 Thanks for visiting my profile! Let’s build something amazing together  
 </p>
