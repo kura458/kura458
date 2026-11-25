@@ -96,6 +96,34 @@ A backend development project focused on REST API development and server-side fu
 
 **Repository:** [Etworks Backend](https://github.com/kura458/EtworksBackend)
 
+
+
+### 🧭 HASERI — Local Technical Finder
+
+A team software engineering project focused on helping users discover local technical services and connect with service providers.
+
+- 📍 Local service discovery
+- 👤 User and administrator workflows
+- 🧩 Full-stack project development
+
+**Repository:** [HASERI](https://github.com/kura458/Real_haseri_pro)
+
+### 🚗 ZayRide UX Redesign
+
+An academic UX redesign project exploring improvements to a ride-booking experience, including onboarding, booking, and ride tracking screens.
+
+- 🎨 User interface and experience redesign
+- 📱 Android design implementation
+- 🗺️ Ride-booking and tracking flows
+
+**Repository:** [ZayRide UX Redesign](https://github.com/kura458/ZayRide-UX-Redesign)
+
+### 💼 Developer Portfolio
+
+My personal portfolio project for presenting my background, skills, and selected development work.
+
+**Repository:** [Kura Lemma Portfolio](https://github.com/kura458/kura-lemma-portfolio)
+
 > More projects and improvements coming soon!
 
 ---
