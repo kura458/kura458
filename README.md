@@ -38,21 +38,36 @@ I'm a Software Engineering student at **Debre Berhan University (DBU)** in Ethio
 
 ## Technologies I've Worked With
 
-These technologies reflect tools used across my projects and current learning.
+Hover over an icon to see the technology name. These are tools I've used in projects or am actively learning.
 
-**Frontend:**  
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="HTML, CSS, JavaScript, React and Next.js" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" title="HTML" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" title="CSS" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" title="Next.js" alt="Next.js" />
 </p>
 
-**Backend and programming:**  
+**Backend and programming**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,nodejs" alt="Java, Spring, PHP, Laravel, Python and Node.js" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" height="48" title="Spring Boot" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=php" height="48" title="PHP" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="48" title="Laravel" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" title="Node.js" alt="Node.js" />
 </p>
 
-**Databases and tools:**  
+**Databases and developer tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,postman,androidstudio" alt="PostgreSQL, MySQL, Git, GitHub, VS Code, Postman and Android Studio" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" title="Visual Studio Code" alt="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" title="Android Studio" alt="Android Studio" />
 </p>
 
 ---
@@ -115,13 +130,21 @@ A Python simulation of a model-based agent that estimates steps and walking dist
 
 ## GitHub Activity
 
+These cards load live GitHub profile data from external stats services. They refresh automatically when the services update their cached data; they are not a real-time feed.
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kura458&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kura458&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kura458&show_icons=true&theme=tokyonight&hide_border=true" alt="Automatically updated GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kura458&layout=compact&theme=tokyonight&hide_border=true" alt="Automatically updated most-used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kura458&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=kura458&theme=tokyonight&hide_border=true" alt="Automatically updated GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kura458">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kura458&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  </a>
 </p>
 
 ---
