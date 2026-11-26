@@ -1,6 +1,10 @@
 # Hi, I'm Kura Lemma 👋
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:00C9A7&height=180&section=header&text=Kura%20Lemma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16" alt="Kura Lemma profile banner" width="100%" />
+</p>
+
+<p align="center">
   <strong>Software Engineering Student @ Debre Berhan University | Full-Stack Developer in Progress</strong>
 </p>
 
@@ -23,8 +27,14 @@
   <a href="https://github.com/kura458?tab=repositories">
     <img src="https://img.shields.io/badge/View-Public%20Repositories-181717?logo=github&logoColor=white" alt="Browse public repositories" />
   </a>
+  <a href="https://kura-lemma-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my live portfolio" />
+  </a>
+  <a href="https://kura-lemma-portfolio.vercel.app/cv.html">
+    <img src="https://img.shields.io/badge/View-My%20CV-00A86B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View my CV" />
+  </a>
   <a href="https://github.com/kura458/kura-lemma-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Source%20Code-0A66C2?logo=github&logoColor=white" alt="Portfolio source code" />
+    <img src="https://img.shields.io/badge/Portfolio-Source%20Code-181717?logo=github&logoColor=white" alt="Portfolio source code" />
   </a>
 </p>
 
@@ -61,7 +71,17 @@ I'm a Software Engineering student at **Debre Berhan University (DBU)** in Ethio
 
 ## Technologies I've Worked With
 
-Hover over an icon to see the technology name. These are tools I've used in projects or am actively learning.
+These icons and badges highlight technologies I've used in projects or am actively learning. My current focus is JavaScript, React, APIs, and backend development.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 **Frontend**
 <p>
@@ -133,11 +153,11 @@ An academic Android UI/UX redesign project for a passenger ride-booking experien
 
 My personal portfolio website, presenting my background, skills, and selected web-development projects.
 
-- Responsive static website built with HTML and CSS
-- Semantic structure and accessibility-focused details
-- Prepared for static hosting; visit the repository for the current source
+- Responsive website built with HTML, CSS, and JavaScript
+- English/Amharic language switching and light/dark themes
+- Accessible navigation, interactive sections, and a print-friendly CV page
 
-**[Portfolio source code](https://github.com/kura458/kura-lemma-portfolio)** · [Explore all repositories](https://github.com/kura458?tab=repositories)
+**[Visit the live portfolio](https://kura-lemma-portfolio.vercel.app/)** · [View my CV](https://kura-lemma-portfolio.vercel.app/cv.html) · [Portfolio source code](https://github.com/kura458/kura-lemma-portfolio)
 
 ### 🤖 [Smartwatch Step Counter — Model-Based AI](https://github.com/kura458/Model-based-AI)
 
@@ -169,6 +189,12 @@ These cards load live GitHub profile data from external stats services. They ref
 I'm happy to connect with developers, collaborate on projects, and hear about internship opportunities.
 
 <p align="center">
+  <a href="https://kura-lemma-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
+  </a>
+  <a href="https://kura-lemma-portfolio.vercel.app/cv.html">
+    <img src="https://img.shields.io/badge/CV-View%20Online-00A86B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" />
+  </a>
   <a href="https://www.linkedin.com/in/kura-lemma/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
